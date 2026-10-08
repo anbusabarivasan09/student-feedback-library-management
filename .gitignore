@@ -1,0 +1,5 @@
+node_modules/
+.env
+src/models/.env
+Q2/.env
+.vscode/
